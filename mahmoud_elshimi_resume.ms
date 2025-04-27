@@ -2,7 +2,7 @@
 \s+9Mahmoud ElShimi\s0
 
 .LP
-.pdfhref W -D mailto:mahmoudelshimi@protonmail.ch -P Email: \m[black] mahmoudelshimi@protonmail.ch\m[]\h'1.35i'
+.pdfhref W -D mailto:mahmoudelshimi@protonmail.ch -P Email: \m[black] mahmoudelshimi@protonmail.ch\m[]\h'1.34i'
 .pdfhref W -D https://wa.me/201003123253?text=Hey,%20I%20came%20from%20your%20CV -P WhatsApp: \m[black] +201003123253\m[]
 .LP
 .pdfhref W -D https://github.com/mahmoudelshimi -P GitHub: \m[black] github.com/mahmoudelshimi\m[]\h'1.5i'
@@ -11,39 +11,37 @@
 
 .LP
 .LH
-.B "\s+4Professional Summary\s0"
+.B "\s+6Professional Summary\s0"
 .sp 0.3
-Junior Odoo/Python Developer with expertise in Django backend development, DevOps, and cloud deployment. Skilled in customizing ERP solutions to enhance business efficiency and streamline operations. Proficient in Linux administration, scripting, networking, and containerization, with a strong focus on automation, performance, and scalability. Seeking opportunities in Odoo and backend development.
+Odoo/Python Developer with expertise in Django backend development, DevOps, and cloud deployment. Skilled in customizing ERP solutions to enhance business operations. Proficient in Linux administration, scripting, networking, and containerization, with a strong focus on automation, performance, and scalability. Seeking opportunities in Odoo and backend development.
 
 
 .LP
 .LH
-.B "\s+4Work Experience\s0"
+.B "\s+6Work Experience\s0"
 .sp 0.7
 .LH
 .B "\s+1Odoo / Python Developer,\s0"
-.I "Perfect Solution"\h'|3.5i'
+.I "Perfect Solution"\h'|3.55i'
 .B "July 2024 - Present"
 .br
 .IP \[bu] 2
-Developed Odoo ERP solutions, ensuring alignment with business processes and Odoo functional cycle.
+Developing Odoo ERP solutions, ensuring alignment with business processes and Odoo functional cycle.
 .IP \[bu] 2
-Customized Odoo modules to enhance system functionality and meet specific business needs.
+Customizing Odoo modules to enhance system functionality and meet specific business needs.
 .IP \[bu] 2
-Led the deployment of Odoo solutions, ensuring seamless integration with existing systems.
+Automating deployment workflows to streamline delivery and minimize downtime.
 .IP \[bu] 2
-Automated deployment workflows to streamline delivery and minimize downtime.
+Collaborating with cross-functional teams to optimize and deploy Odoo solutions successfully.
 .IP \[bu] 2
-Collaborated with cross-functional teams to optimize and deploy Odoo solutions successfully.
+Monitoring and maintaining Linux servers, ensuring performance, security, and compliance.
 .IP \[bu] 2
-Monitored and maintained Linux servers, ensuring performance, security, and compliance.
-.IP \[bu] 2
-Configured and managed cloud infrastructure, optimizing resource utilization and security.
+Configuring and managing cloud infrastructure, optimizing resource utilization and security.
 .LP
 
 .LH
 .B "\s+1IT Technical Support,\s0"
-.I "Ideal Systems Company" \h'|3.75i'
+.I "Ideal Systems Company" \h'|3.7i'
 .B "Jan 2024 - June 2024"
 .br
 .IP \[bu] 2
@@ -70,7 +68,7 @@ Assisted customers with network troubleshooting and service optimization.
 
 
 .LH
-.B "\s+4Certifications\s0"
+.B "\s+6Certifications\s0"
 .IP \[bu] 2
 Oracle Cloud Infrastructure 2024 Foundations Associate \h'|6i'
 .I 2025
@@ -80,18 +78,18 @@ Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate \h'|6i'
 .IP \[bu] 2
 Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate \h'|6i'
 .I 2025
+.IP \[bu] 2
+Oracle Fusion Cloud Applications ERP Foundations Certified Associate \h'|6i'
+.I 2025
 .LP
 
 
-
-
-
 .LH
-.B "\s+4Skills\s0"
+.B "\s+6Skills\s0"
 
 .br
 .B "Odoo Development"\t\t
-Odoo module customization, Odoo framework, ORM, XML, QWeb, Python.
+Odoo module customization, ORM, XML, QWeb, RPC, Python.
 .sp 0.2
 .br
 .B "Backend Development"\t\t
@@ -103,11 +101,11 @@ PostgreSQL, MySQL, Microsoft SQL Server.
 .sp 0.2
 .br
 .B "DevOps and Cloud"\t\t
-AWS, CI/CD, Docker, Bash scripting, Nginx, Git, GitHub.
+AWS, CI/CD, Docker, Firewalld, Nginx, Cron, SSH, Git, GitHub.
 .sp 0.2
 .br
 .B "System Administration"\t\t
-Linux (Debian, Red Hat), Shell scripting, Security, Server monitoring.
+Linux (Debian, Red Hat), Shell scripting, Security, Monitoring and Troubleshooting.
 .sp 0.2
 .br
 .B "Networking"\t\t\t
@@ -134,7 +132,7 @@ Problem-solving, Researching, Teamwork, Flexibility, Communication, RTFM.
 
 
 .LH
-.B "\s+4Projects\s0"
+.B "\s+6Projects\s0"
 
 .LH
 .B "\s+1Letter of Guarantee Odoo Module\s0"
@@ -148,6 +146,32 @@ Developed an Odoo module to manage letters of guarantee with features including:
 Integration with partners and banks for seamless guarantee tracking.
 .IP \[bu] 2
 Comprehensive reporting for financial insights and auditing.
+.IP \[bu] 2
+Fee management system for tracking guarantee-related costs.
+.IP \[bu] 2
+Issuance and expiry tracking to monitor guarantee validity periods.
+.IP \[bu] 2
+Implemented access control and state management (including cancellation handling).
+.LP
+
+.LH
+.B "\s+1Odoo Backup And Restore Automation\s0"
+.br
+.I 
+.pdfhref W -D https://github.com/mahmoudElshimi/odoo_database_backup \m[black]github.com/mahmoudElshimi/odoo_database_backup \h'|6i' 2025\m[]
+.br
+.sp 0.4
+Developed Bash automation scripts for Odoo database management:
+.IP \[bu] 2
+Created robust backup solution with timestamped ZIP compression (includes database dump + filestore)
+.IP \[bu] 2
+Implemented safe restore mechanism with rollback capability for filestore operations
+.IP \[bu] 2
+Designed cron integration for automated nightly backups with logging
+.IP \[bu] 2
+Built error handling for PostgreSQL operations and path validations
+.IP \[bu] 2
+Automatically deletes backups older than 7 days to manage storage
 .LP
 
 .LH
@@ -164,17 +188,16 @@ A dashboard for teachers' assistants to manage students, information, news, subs
 Enhanced video protection mechanisms to prevent unauthorized downloads.
 .IP \[bu] 2
 Detailed logging of all actions performed by assistants for monitoring and auditing purposes.
+.IP \[bu] 2
+Support for multiple teachers per course, facilitating collaborative teaching.
 .LP
 
-
 .LH
-.B "\s+4Education\s0"
-
+.B "\s+6Education\s0"
+.br
 Bachelor Degree from Al-Azhar University, Cairo.\h'|6i'
 .I 2024
 .br
-
-
-.sp 13
+.sp 0.69
 .B
 .pdfhref W -D https://raw.githubusercontent.com/mahmoudElshimi/resume/main/mahmoud_elshimi_resume.pdf -P "References available upon request," \m[black] latest resume available here.\m[]
