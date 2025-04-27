@@ -83,6 +83,7 @@ Oracle Fusion Cloud Applications ERP Foundations Certified Associate \h'|6i'
 .LP
 
 
+
 .LH
 .B "\s+6Skills\s0"
 
