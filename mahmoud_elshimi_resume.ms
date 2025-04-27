@@ -1,6 +1,5 @@
 .TL
 \s+9Mahmoud ElShimi\s0
-
 .LP
 .pdfhref W -D mailto:mahmoudelshimi@protonmail.ch -P Email: \m[black] mahmoudelshimi@protonmail.ch\m[]\h'1.34i'
 .pdfhref W -D https://wa.me/201003123253?text=Hey,%20I%20came%20from%20your%20CV -P WhatsApp: \m[black] +201003123253\m[]
