@@ -24,10 +24,9 @@
 *.synctex.gz
 *.xdv
 
-# PDF and other compiled output
+# other compiled output
 *.dvi
 *.ps
-*.pdf
 
 # Editors and IDEs
 *.swp
