@@ -75,12 +75,12 @@ Problem-solving, Researching, Teamwork, Flexibility, Communication, RTFM
 - Issuance and expiry tracking to monitor guarantee validity periods.
 - Implemented access control and state management (including cancellation handling).
 
-### [Odoo Backup And Restore Automation](https://github.com/mahmoudElshimi/odoo_database_backup) (2025)
-- Created robust backup solution with timestamped ZIP compression (includes database dump + filestore).
-- Implemented safe restore mechanism with rollback capability for filestore operations.
-- Designed cron integration for automated nightly backups with logging.
-- Built error handling for PostgreSQL operations and path validations.
-- Automatically deletes backups older than 7 days to manage storage.
+### [Odoer (Dockerizing Odoo)](https://github.com/mahmoudElshimi/odoer) (2025)
+- CLI tool built in Rust to manage Odoo projects via Docker Compose.
+- Supports `init`, `update`, `up`, `addon`, `clean`, and `restore` commands.
+- Protects sensitive actions with password prompts (non-echoed input like SSH).
+- Manages PostgreSQL, filestore, and extra addons as Docker volumes.
+- Allows switching project directories using `-d <dir>` argument.
 
 ### [Rusetta](https://rusetta.openbsd.amsterdam/platform_philosophy) (2024)
 - A dashboard for teachers' assistants to manage students, information, news, subscriptions, and tests.
