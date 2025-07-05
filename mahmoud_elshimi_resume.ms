@@ -138,23 +138,21 @@ Implemented access control and state management (including cancellation handling
 .LP
 
 .LH
-.B "\s+1Odoo Backup And Restore Automation\s0"
+.B "\s+1Odoer (Dockerizing Odoo)\s0"
 .br
-.I 
-.pdfhref W -D https://github.com/mahmoudElshimi/odoo_database_backup \m[black]github.com/mahmoudElshimi/odoo_database_backup \h'|6i' 2025\m[]
+.I
+.pdfhref W -D https://github.com/mahmoudElshimi/odoer \m[black]github.com/mahmoudElshimi/odoer \h'|6i' 2025\m[]
 .br
 .sp 0.4
-Developed Bash automation scripts for Odoo database management:
+Created a CLI utility in Rust to manage Odoo deployments with Docker Compose:
 .IP \[bu] 2
-Created robust backup solution with timestamped ZIP compression (includes database dump + filestore)
+Provides commands for starting, initializing, updating, and backing up Odoo environments.
 .IP \[bu] 2
-Implemented safe restore mechanism with rollback capability for filestore operations
+Supports safe restoration with backup rotation and password-protected critical operations.
 .IP \[bu] 2
-Designed cron integration for automated nightly backups with logging
+Handles filestore, PostgreSQL data, and addons as independent Docker volumes.
 .IP \[bu] 2
-Built error handling for PostgreSQL operations and path validations
-.IP \[bu] 2
-Automatically deletes backups older than 7 days to manage storage
+Built-in project directory switching with `-d <dir>` argument for flexible deployments.
 .LP
 
 .LH
