@@ -118,6 +118,24 @@ Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate \h'|5.6i'
 .B "\s+6Projects\s0"
 
 .LH
+.B "\s+1Odoer (Dockerizing Odoo)\s0"
+.br
+.I
+.pdfhref W -D https://github.com/mahmoudElshimi/odoer \m[black]github.com/mahmoudElshimi/odoer \h'|6i' 2025\m[]
+.br
+.sp 0.4
+Created a CLI utility in Rust to manage Odoo deployments with Docker Compose:
+.IP \[bu] 2
+Provides commands for starting, initializing, updating, and backing up Odoo environments.
+.IP \[bu] 2
+Supports safe restoration with backup rotation and password-protected critical operations.
+.IP \[bu] 2
+Handles filestore, PostgreSQL data, and addons as independent Docker volumes.
+.IP \[bu] 2
+Built-in project directory switching with `-d <dir>` argument for flexible deployments.
+.LP
+
+.LH
 .B "\s+1Letter of Guarantee Odoo Module\s0"
 .br
 .I 
@@ -135,24 +153,6 @@ Fee management system for tracking guarantee-related costs.
 Issuance and expiry tracking to monitor guarantee validity periods.
 .IP \[bu] 2
 Implemented access control and state management (including cancellation handling).
-.LP
-
-.LH
-.B "\s+1Odoer (Dockerizing Odoo)\s0"
-.br
-.I
-.pdfhref W -D https://github.com/mahmoudElshimi/odoer \m[black]github.com/mahmoudElshimi/odoer \h'|6i' 2025\m[]
-.br
-.sp 0.4
-Created a CLI utility in Rust to manage Odoo deployments with Docker Compose:
-.IP \[bu] 2
-Provides commands for starting, initializing, updating, and backing up Odoo environments.
-.IP \[bu] 2
-Supports safe restoration with backup rotation and password-protected critical operations.
-.IP \[bu] 2
-Handles filestore, PostgreSQL data, and addons as independent Docker volumes.
-.IP \[bu] 2
-Built-in project directory switching with `-d <dir>` argument for flexible deployments.
 .LP
 
 .LH
