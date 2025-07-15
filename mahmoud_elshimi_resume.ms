@@ -73,7 +73,7 @@ PostgreSQL, MySQL, Microsoft SQL Server.
 .sp 0.2
 .br
 .B "DevOps and Cloud"\t\t
-AWS, CI/CD, Docker, Firewalld, Nginx, Cron, SSH, Git, GitHub.
+AWS, CI/CD, Docker, Firewalld, Nginx, Cron, Ansible, Git, GitHub.
 .sp 0.2
 .br
 .B "System Administration"\t\t

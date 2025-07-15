@@ -40,7 +40,7 @@ FastAPI, REST APIs, Data Structures and Algorithms, SOLID Principles
 PostgreSQL, MySQL, Microsoft SQL Server
 
 **DevOps and Cloud**  
-AWS, CI/CD, Docker, Firewalld, Nginx, Cron, SSH, Git, GitHub
+AWS, CI/CD, Docker, Firewalld, Nginx, Cron, Ansible, Git, GitHub
 
 **System Administration**  
 Linux (Debian, Red Hat), Cloud, Bash, Networks, Security, Monitoring
