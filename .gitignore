@@ -1,0 +1,45 @@
+# LaTeX intermediate and output files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+
+# Temporary files
+*.bak
+*.fdb_latexmk
+*.fls
+*.synctex
+*.synctex.gz
+*.xdv
+
+# other compiled output
+*.dvi
+*.ps
+
+# Editors and IDEs
+*.swp
+*.swo
+*~
+.vscode/
+*.code-workspace
+.idea/
+*.iml
+
+# TeXShop
+*.synctex(busy)
+*.texshop
+*.texshop.lock
+auto/
+
