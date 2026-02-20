@@ -16,7 +16,6 @@
 .sp 0.3
 Odoo/Python Developer with expertise in backend development, DevOps, and cloud deployment. Skilled in customizing ERP solutions to enhance business operations. Proficient in Linux administration, scripting, networking, and containerization, with a strong focus on automation, performance, and scalability. Seeking opportunities in Odoo and backend development.
 
-
 .LP
 .LH
 .B "\s+6Work Experience\s0"
@@ -76,7 +75,7 @@ Assisted customers with network troubleshooting and service optimization.
 
 .LH
 .B "\s+6Certifications\s0"
-.sp 0.3
+.sp 0.25
 .IP \[bu] 2
 Multicloud Network Associate, Aviatrix \h'|5.55i'
 .I "May 2025"
