@@ -43,6 +43,7 @@ Problem-solving, Researching, Teamwork, Flexibility, Communication, RTFM
 
 ## Certifications
 
+-  Diploma in Quantum Computing & Programming, QWorld  – *Feb 2026*
 - Multicloud Network Associate, Aviatrix – *May 2025*
 - Oracle Cloud Infrastructure 2024 Foundations Associate – *Feb 2025*
 - Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate – *Feb 2025*
