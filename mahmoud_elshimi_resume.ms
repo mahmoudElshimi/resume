@@ -1,3 +1,4 @@
+.mso pdfmark.tmac
 .TL
 \s+9Mahmoud ElShimi\s0
 .sp 0.1
@@ -21,9 +22,15 @@ Odoo/Python Developer with expertise in backend development, DevOps, and cloud d
 .B "\s+6Work Experience\s0"
 .sp 0.7
 .LH
+.B "\s+1Senior Executive Software Developer,\s0"
+.I "AMAN Holding"\h'|2.80i'
+.B "May 2026 - Present"
+.br
+
+.LH
 .B "\s+1Odoo Developer,\s0"
 .I "Ibnsina Pharma"\h'|4.15i'
-.B "Jul 2025 - Present"
+.B "Jul 2025 - May 2026"
 .br
 .IP \[bu] 2
 Integrated Odoo with ETA e-receipt system to automate and streamline pharmaceutical operations.
@@ -45,8 +52,6 @@ Managed Odoo deployments, including automation, monitoring, and performance opti
 .IP \[bu] 2
 Developing Odoo ERP solutions, ensuring alignment with business processes and Odoo functional cycle.
 .IP \[bu] 2
-Customizing Odoo modules to enhance system functionality and meet specific business needs.
-.IP \[bu] 2
 Automating deployment workflows to streamline delivery and minimize downtime.
 .IP \[bu] 2
 Collaborating with cross-functional teams to optimize and deploy Odoo solutions successfully.
@@ -66,11 +71,9 @@ Configuring and managing cloud infrastructure, optimizing resource utilization a
 .IP \[bu] 2
 Configured static IPs, port forwarding, and CPEs to meet client requirements.
 .IP \[bu] 2
-Diagnosed connectivity issues using company tools and resolved complex technical problems.
-.IP \[bu] 2
 Assisted customers with network troubleshooting and service optimization.
 .IP \[bu] 2
-.B "Skills: Database Management (SQL Server), Linux Administration, and Query Optimization."
+.B "Skills: Networking, Customer Support, Troubleshooting, and Communication."
 .LP
 
 .LH
