@@ -14,18 +14,27 @@
 .LP
 .LH
 .B "\s+6Professional Summary\s0"
-.sp 0.3
+.sp 0.2
 Odoo/Python Developer with expertise in backend development, DevOps, and cloud deployment. Skilled in customizing ERP solutions to enhance business operations. Proficient in Linux administration, scripting, networking, and containerization, with a strong focus on automation, performance, and scalability. Seeking opportunities in Odoo and backend development.
 
 .LP
 .LH
 .B "\s+6Work Experience\s0"
-.sp 0.7
+.sp 0.6
 .LH
 .B "\s+1Senior Executive Software Developer,\s0"
 .I "AMAN Holding"\h'|2.80i'
 .B "May 2026 - Present"
 .br
+.IP \[bu] 2
+Initiated an AI-driven documentation generation project across all company repositories to standardize code tracking and technical clarity.
+.IP \[bu] 2
+Integrated Odoo with diverse internal and external systems, creating seamless data pipelines and reducing cross-platform friction.
+.IP \[bu] 2
+Enhanced DevOps pipeline workflows and instituted a unified Git flow architecture to establish team-wide version control coherence
+.IP \[bu] 2
+.B "Skills: Mentorship, Agentic AI, Kubernetes, Jenkins, Jira."
+.LP
 
 .LH
 .B "\s+1Odoo Developer,\s0"
@@ -51,8 +60,6 @@ Managed Odoo deployments, including automation, monitoring, and performance opti
 .br
 .IP \[bu] 2
 Developing Odoo ERP solutions, ensuring alignment with business processes and Odoo functional cycle.
-.IP \[bu] 2
-Automating deployment workflows to streamline delivery and minimize downtime.
 .IP \[bu] 2
 Collaborating with cross-functional teams to optimize and deploy Odoo solutions successfully.
 .IP \[bu] 2
@@ -93,7 +100,6 @@ Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate \h'|5.6i'
 
 .LH
 .B "\s+6Skills\s0"
-
 .br
 .B "Odoo Development"\t\t
 Odoo module customization, ORM, XML, QWeb, RPC, Python.
@@ -143,7 +149,7 @@ Problem-solving, Researching, Teamwork, Flexibility, Communication, RTFM.
 .I
 .pdfhref W -D https://github.com/mahmoudElshimi/odoer \m[black]github.com/mahmoudElshimi/odoer \h'|6i' 2025\m[]
 .br
-.sp 0.3
+.sp 0.2
 Created a CLI utility in Rust to manage Odoo deployments with Docker Compose:
 .IP \[bu] 2
 Provides commands for starting, initializing, updating, and backing up Odoo environments.
@@ -151,8 +157,6 @@ Provides commands for starting, initializing, updating, and backing up Odoo envi
 Supports safe restoration with backup rotation and password-protected critical operations.
 .IP \[bu] 2
 Handles filestore, PostgreSQL data, and addons as independent Docker volumes.
-.IP \[bu] 2
-Built-in project directory switching with `-d <dir>` argument for flexible deployments.
 .LP
 
 .LH
@@ -161,7 +165,7 @@ Built-in project directory switching with `-d <dir>` argument for flexible deplo
 .I 
 .pdfhref W -D https://github.com/mahmoudElshimi/psi_letter_of_guarantee \m[black]github.com/mahmoudElshimi/psi_letter_of_guarantee \h'|6i' 2025\m[]
 .br
-.sp 0.4
+.sp 0.2
 Developed an Odoo module to manage letters of guarantee with features including:
 .IP \[bu] 2
 Integration with partners and banks for seamless guarantee tracking.
@@ -171,8 +175,6 @@ Comprehensive reporting for financial insights and auditing.
 Fee management system for tracking guarantee-related costs.
 .IP \[bu] 2
 Issuance and expiry tracking to monitor guarantee validity periods.
-.IP \[bu] 2
-Implemented access control and state management (including cancellation handling).
 .LP
 
 .LH
@@ -181,10 +183,8 @@ Implemented access control and state management (including cancellation handling
 .I 
 .pdfhref W -D https://rusetta.openbsd.amsterdam/platform_philosophy \m[black]rusetta.openbsd.amsterdam/platform_philosophy \h'|6i' 2024\m[] 
 .br
-.sp 0.4
+.sp 0.2
 Developed an educational platform using Django with the following key features:
-.IP \[bu] 2
-A dashboard for teachers' assistants to manage students, information, news, subscriptions, and tests.
 .IP \[bu] 2
 Enhanced video protection mechanisms to prevent unauthorized downloads.
 .IP \[bu] 2
@@ -196,10 +196,9 @@ Support for multiple teachers per course, facilitating collaborative teaching.
 .LH
 .B "\s+6Education\s0"
 .br
-.sp 0.4
+.sp 0.2
 Bachelor Degree from Al-Azhar University, Cairo.\h'|6i'
 .I 2024
 
-.sp 1
 .B
 .pdfhref W -D https://raw.githubusercontent.com/mahmoudElshimi/resume/main/mahmoud_elshimi_resume.pdf -P "References available upon request," \m[black] latest resume available here.\m[]
